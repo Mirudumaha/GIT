@@ -14,4 +14,16 @@ public class Sample {
 	System.out.println("Hindi");
 
 	}
+	private void method4() {
+	System.out.println("Telugu");
+
+	}
+	private void method5() {
+	System.out.println("Kanada");
+
+	}
+	private void method6() {
+	System.out.println("Malayalam");
+
+	}
 }
